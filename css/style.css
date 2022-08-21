@@ -1,0 +1,19 @@
+ul{
+  list-style: none;
+}
+
+.addBtn{
+  margin-left: 10px;
+}
+
+.done{
+  text-decoration: line-through;
+}
+
+.deleteBtn{
+  margin-left: 10px;
+}
+
+.todoList{
+  padding: 7px;
+}
